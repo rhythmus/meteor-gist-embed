@@ -1,0 +1,8 @@
+{
+  "name": "gist-embed",
+  "description": "Ultra powered gist embedding. http://blairvanderhoof.com/gist-embed/",
+  "homepage": "https://github.com/rhythmus/meteor-gist-embed",
+  "author": "Wouter Soudan",
+  "version": "1.9",
+  "git": "https://github.com/Sewdn/meteor-gist-embed.git"
+}
