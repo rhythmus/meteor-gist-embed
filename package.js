@@ -4,5 +4,6 @@ Package.describe({
 
 Package.on_use(function (api) {
   api.use('jquery', 'client');
-  api.add_files('gist-embed.js', 'client');
+  api.add_files('lib/gist-embed.js', 'client');
+  api.export('EmbedGist');
 });
